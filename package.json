@@ -1,0 +1,25 @@
+{
+  "name": "jdtemplatepro-uview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevilMayCryXZ/jdtemplatepro-uView.git"
+  },
+  "author": "xz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevilMayCryXZ/jdtemplatepro-uView/issues"
+  },
+  "homepage": "https://github.com/DevilMayCryXZ/jdtemplatepro-uView#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "uni-read-pages": "^1.0.5",
+    "uni-simple-router": "^2.0.5",
+    "uview-ui": "^1.8.4"
+  }
+}
